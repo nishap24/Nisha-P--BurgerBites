@@ -1,6 +1,6 @@
 Nisha Kanasu Foods💛. - BurgerBites 🍔🍟
 
-Welcome to the TG Foods - BurgerBites repository! This repository showcases a food website created by me as a practice project to enhance my HTML, CSS, and JS skills.
+Welcome to the NK Foods - BurgerBites repository! This repository showcases a food website created by me as a practice project to enhance my HTML, CSS, and JS skills.
 
 
 
@@ -64,4 +64,4 @@ For any questions or inquiries, please feel free to reach out.
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
 
-Thank you for visiting TG Foods - BurgerBites!Enjoy browsing through the delicious burger options and the responsive web design. 🍔🍟
+Thank you for visiting NK Foods - BurgerBites!Enjoy browsing through the delicious burger options and the responsive web design. 🍔🍟
